@@ -51,8 +51,10 @@ The specialization (taught by **Andrew Ng**) covers foundations and best practic
 ---
 
 ## Repository Structure
+
 This is the organisation of the repository:
 
+```plaintext
 DL-Specialization-DLAI-Solutions/
 │
 ├── C1-Neural-Networks-and-Deep-Learning/
@@ -118,8 +120,6 @@ DL-Specialization-DLAI-Solutions/
 │
 └── README.md
 
-
-
 ---
 
 ## Setup
@@ -139,6 +139,3 @@ source .venv/bin/activate
 jupyter notebook
 # or
 jupyter lab
-
-
-

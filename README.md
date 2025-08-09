@@ -120,22 +120,3 @@ DL-Specialization-DLAI-Solutions/
 │
 └── README.md
 
----
-
-## Setup
-
-```bash
-# 1) Clone
-git clone https://github.com/alexduartehc/DL-Specialization-DLAI-Solutions.git
-cd DL-Specialization-DLAI-Solutions
-
-# 2) Create & activate a virtual environment (recommended)
-python -m venv .venv
-# Windows:  .venv\Scripts\activate
-# macOS/Linux:
-source .venv/bin/activate
-
-# 3) Launch notebooks
-jupyter notebook
-# or
-jupyter lab

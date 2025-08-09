@@ -43,7 +43,7 @@ The specialization (taught by **Andrew Ng**) covers foundations and best practic
 
 ## How to Navigate
 
-- Each course is devided in separate weeks
+- Each course is devided in separate modules
 - Start each course in **Week1** and move chronologically.
 - Each week has a "Theoretical" and "Practical" folders with the respective solutions 
 - Compare your approach to these solutions **after** attempting the tasks yourself.
@@ -59,63 +59,63 @@ DL-Specialization-DLAI-Solutions/
 │
 ├── C1-Neural-Networks-and-Deep-Learning/
 │   ├── Module1/
-│   │   ├── theory.md              # Theoretical solutions
+│   │   ├── theory.pdf              # Theoretical solutions
 │   │   └── practical.ipynb         # Practical (programming) solutions
 │   ├── Module2/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   ├── Module3/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   └── Module4/
-│       ├── theory.md
+│       ├── theory.pdf
 │       └── practical.ipynb
 │
 ├── C2-Improving-Deep-Neural-Networks/
 │   ├── Module1/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   ├── Module2/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   └── Module3/
-│       ├── theory.md
+│       ├── theory.pdf
 │       └── practical.ipynb
 │
 ├── C3-Structuring-Machine-Learning-Projects/
 │   ├── Module1/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   └── Module2/
-│       ├── theory.md
+│       ├── theory.pdf
 │       └── practical.ipynb
 │
 ├── C4-Convolutional-Neural-Networks/
 │   ├── Module1/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   ├── Module2/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   ├── Module3/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   └── Module4/
-│       ├── theory.md
+│       ├── theory.pdf
 │       └── practical.ipynb
 │
 ├── C5-Sequence-Models/
 │   ├── Module1/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   ├── Module2/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   ├── Module3/
-│   │   ├── theory.md
+│   │   ├── theory.pdf
 │   │   └── practical.ipynb
 │   └── Module4/
-│       ├── theory.md
+│       ├── theory.pdf
 │       └── practical.ipynb
 │
 └── README.md
